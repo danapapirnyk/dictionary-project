@@ -1,0 +1,20 @@
+form input {
+  display: block;
+  margin: 0 auto;
+}
+
+.Dictionary form {
+  background: white;
+  padding: 40px 40px;
+  border-radius: 10px;
+}
+.Dictionary input {
+  width: 100%;
+  padding: 7px 15px;
+  border: 1px solid #333;
+  border-radius: 4px;
+  font-size: 18px;
+}
+.Dictionary h2 {
+  margin-bottom: 20px;
+}
